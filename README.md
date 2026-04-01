@@ -1,11 +1,11 @@
-# 🧮 Calculator App
+# Calculator App
 
 A simple calculator built using HTML, CSS, and JavaScript.
 
-## 🚀 Features
+## Features
 - Basic arithmetic operations
 - Clean UI
 - Error handling
 
-## ▶️ Run
-Open index.html in browser
+## Run
+https://poojithacinfo-ux.github.io/Calculator-app/
